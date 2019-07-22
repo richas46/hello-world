@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hey guys,
+Richa here, I'm doing computer engineering (Sem V).
